@@ -13,6 +13,8 @@ black = "*"
 sklearn = "*"
 tensorflow = "*"
 fuzzywuzzy = "*"
+opencv-python = "*"
+joblib = "*"
 
 [dev-packages]
 
